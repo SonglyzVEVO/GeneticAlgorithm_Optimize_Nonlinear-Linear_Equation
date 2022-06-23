@@ -1,0 +1,1 @@
+# GeneticAlgorithm_Optimize_Nonlinear-Linear_Equation
